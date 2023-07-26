@@ -1,0 +1,14 @@
+.home{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    
+}
+.form{
+    display: flex;
+    margin-top: 20 px;
+}
+.users{
+    margin: 11 px;
+    width: 1500px;
+}
