@@ -1,3 +1,16 @@
+In this MERN Technical assignment we use React.js Tech stack.
+
+Here we below we attached pic of Technical assignment.
+
+![Screenshot_20230726_185448](https://github.com/Mohan-Chandra-Sharma1/zyapaar/assets/120721761/afd0d475-f26c-4b31-9cb7-93e39bb2953b)
+
+
+![Screenshot_20230726_185432](https://github.com/Mohan-Chandra-Sharma1/zyapaar/assets/120721761/2a9c63a3-0b28-42d7-89c3-f2af1491d7e4)
+
+
+![Screenshot_20230726_185411](https://github.com/Mohan-Chandra-Sharma1/zyapaar/assets/120721761/2fd3b529-0d57-4e15-85c4-61542be9a4b0)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
